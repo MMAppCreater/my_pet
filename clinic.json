@@ -1,0 +1,108 @@
+{
+    "data":[
+        {
+            "name":"Forever Veterinary Clinic (ထာဝရဆေးခန်း)",
+            "image":"",
+            "latitude":"",
+            "longitude":"",
+            "state":"ရန်ကုန်",
+            "township":"လှိုင်မြို့နယ်",
+            "doctors":"Dr.Saw Thet Htun, Dr.Myo Khaing",
+            "phone":"095402360, 0931074452, 09794794544",
+            "address":"အမှတ် B-2, R-5, ဘုရင့်နောင်လမ်းမ၊ ဘူတာရုံမှတ်တိုင်နား၊ လှိုင်မြို့နယ်။",
+            "remark":"Mon to Fri 9am-12pm, 2pm-4pm, 6pm-9pm\nSat 9am-12pm, 2pm-4pm\nSun/Public Holidays 9am-1pm\n\nဆေးခန်းပိတ်ချိန်တွင်လည်း ဖုန်းခေါ်ပြီး ဆေးခန်းလာပြနိုင်သည်။ အချိန်ပိုခတော့ ပေးရသည်။ အိမ်သို့ကြွသည်။",
+            "rating":""
+        },
+        {
+            "name":"ကောင်းဆေးခန်း",
+            "image":"",
+            "latitude":"",
+            "longitude":"",
+            "state":"ရန်ကုန်",
+            "township":"လှိုင်သာယာမြို့နယ်",
+            "doctors":"Dr.U Than Win",
+            "phone":"095004866",
+            "address":"နဝဒေးအိမ်ယာ Shop house, လှိုင်သာယာ (ကျန်စစ်သားအိမ်ယာနဲ့ နီးတဲ့အခြမ်း၊ နယူးအာရှ ဖုန်းဆိုင်ဘေးလမ်းကဝင်၊ ဘယ်ဘက်ချိုး၊ အနီးရှိကုန်စုံဆိုင်ကို မေးကြည့်နိုင်။ ၅ လမ်းထိပ်ဘက်မှာလဲရှိ၊ ပီမိုးနင်းလမ်းအနီးတွင် မေးကြည့်နိုင်။",
+            "remark":"",
+            "rating":""
+        },
+        {
+            "name":"အောင်ဆေးခန်း",
+            "image":"",
+            "latitude":"",
+            "longitude":"",
+            "state":"ရန်ကုန်",
+            "township":"",
+            "doctors":"Dr.Kyaw Soe (BVS) Veterinary Surgeon (Tasama-0126)",
+            "phone":"095117870",
+            "address":"အမှတ် ၃၃၊ မိုးကောင်းလမ်း (ဘေက်ထော်ဘူတာရုံလမ်းထောင့်) ဘောက်ထော်၊ မာကျူရီလက်ဖက်ရည်ဆိုင်နှင့် သပြေရိပ်လက်ဖက်ရည်ဆိုင်ကြား၊ မှတ်တမ်းရုံးနှင့် မျက်နှာချင်းဆိုင်)",
+            "remark":"မနက် 8:30-11:00, ညနေ 4:00-7:30\n(အင်္ဂါနေ့မနက်ပိုင်းပိတ်)",
+            "rating":""
+        },
+        {
+            "name":"စေတနာဆေးခန်း",
+            "image":"",
+            "latitude":"",
+            "longitude":"",
+            "state":"ရန်ကုန်",
+            "township":"တောင်ဥက္ကလာပမြို့နယ်",
+            "doctors":"Dr.Lae Lae Khing (B.V.S) (Tasama-3050)",
+            "phone":"01560464",
+            "address":"သုမင်္ဂလာလမ်း၊ ဇာလီတောင်အိမ်ယာ၊ တောင်ဥက္ကလာပမြို့နယ်။",
+            "remark":"",
+            "rating":""
+        },
+        {
+            "name":"Royal Asia Clinic",
+            "image":"",
+            "latitude":"",
+            "longitude":"",
+            "state":"ရန်ကုန်",
+            "township":"တောင်ဥက္ကလာပမြို့နယ်",
+            "doctors":"Dr.Thein Tun Aung",
+            "phone":"018500715, 09421066887",
+            "address":"အမှတ် ၂၉၆(က)၊ သံသုမာလမ်း၊ တောင်ဥက္ကလာပမြို့နယ်။",
+            "remark":"",
+            "rating":""
+        },
+        {
+            "name":"ကြာညိုပန်းဆေးခန်း",
+            "image":"",
+            "latitude":"",
+            "longitude":"",
+            "state":"ရန်ကုန်",
+            "township":"တောင်ဥက္ကလာပမြို့နယ်",
+            "doctors":"Dr.Daw Sandar Aung, Dr.Su Lae Ye Htun",
+            "phone":"01572863",
+            "address":"တောင်ဥက္ကလာစာတိုက်အနီး (တောင်ဥက္ကလာ ရဲစခန်းရှေ့)",
+            "remark":"အိမ်သို့မကြွနိုင်ပါ။",
+            "rating":""
+        },
+        {
+            "name":"ဝေဇယန္တာဆေးခန်း",
+            "image":"",
+            "latitude":"",
+            "longitude":"",
+            "state":"ရန်ကုန်",
+            "township":"တောင်ဥက္ကလာပမြို့နယ်",
+            "doctors":"Dr.Kyaw Lwin",
+            "phone":"",
+            "address":"ပါရမီလမ်းနှင့် ဝေဇယန္တာလမ်းထောင့်အနီး၊ ဝေဇယန္တာလမ်းမကြီးပေါ်၊ တောင်ဥက္ကလာပမြို့နယ်။",
+            "remark":"",
+            "rating":""
+        },
+        {
+            "name":"",
+            "image":"",
+            "latitude":"",
+            "longitude":"",
+            "state":"",
+            "township":"",
+            "doctors":"",
+            "phone":"",
+            "address":"",
+            "remark":"",
+            "rating":""
+        }
+    ]
+}
