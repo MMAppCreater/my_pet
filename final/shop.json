@@ -1,0 +1,56 @@
+[
+   {
+      "name":"Hamster Blog",
+      "image":"",
+      "support":"Fish, Bird, Rabbit, Hamster, Cat, Dog",
+      "latitude":"16.91026366216617",
+      "longitude":"96.15974775384093",
+      "state":"ရန်ကုန်",
+      "township":"မြောက်ဥက္ကလာပ",
+      "phone":"09443022245, 09694416991, 09757453062",
+      "address":"ဆ/၁၂၊ ခေမာသီ ၁ လမ်း၊ ဈ-ဈေးအနီး၊ မြောက်ဥက္ကလာပမြို့နယ်။",
+      "remark":"",
+      "rating":""
+   },
+   {
+      "name":"Bumblebee",
+      "image":"https://lh5.googleusercontent.com/p/AF1QipME481Np_vITfnt0wvNFTOqoqq-mmwGFGE7td5-=w408-h306-k-no",
+      "support":"Fish, Bird, Rabbit, Hamster, Cat, Dog",
+      "latitude":"16.903827358012176",
+      "longitude":"96.16138815723363",
+      "state":"ရန်ကုန်",
+      "township":"မြောက်ဥက္ကလာပ",
+      "phone":"09423438877",
+      "address":"မေဓာဝီလမ်းမကြီး၊ မြောက်ဥက္ကလာပမြို့နယ်၊ ရန်ကုန်။",
+      "remark":"",
+      "rating":""
+   },
+   {
+      "name":"De De Pet Shop",
+      "image":"",
+      "support":"Rabbit",
+      "latitude":"16.91026366216617",
+      "longitude":"96.15974775384093",
+      "state":"ရန်ကုန်",
+      "township":"စမ်းချောင်း",
+      "phone":"09253385045",
+      "address":"အမှတ် ၁၄ C, မြေညီ ခေါင်းရင်း၊ ဝေဠုဝန်လမ်းကျယ်၊ ဗဟိုလမ်းဘက်ခြမ်း၊ စမ်းချောင်းမြို့နယ်၊ ရန်ကုန်။",
+      "facebook":"https://wwww.facebook.com/dedepetshop.mm",
+      "remark":"",
+      "rating":""
+   },
+   {
+      "name":"Pet Zone",
+      "image":"",
+      "support":"Rabbit, Cat, Dog",
+      "latitude":"16.803688606551688",
+      "longitude":"96.13019406677518",
+      "state":"ရန်ကုန်",
+      "township":"စမ်းချောင်း",
+      "phone":"09409000138",
+      "address":"No 120 (A) ဗားကရာလမ်းနှင့် ဗဟိုလမ်းထောင့်၊ ရန်ကုန်။",
+      "facebook":"https://wwww.facebook.com/PetZone.PZ",
+      "remark":"",
+      "rating":""
+   }
+]
